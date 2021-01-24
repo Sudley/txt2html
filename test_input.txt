@@ -1,0 +1,35 @@
+Welcome to Foodly ,Inc.
+
+There π are the corporate web pages of *Foodly*.We hope you find your stay enjoyable,and that you will sample many of our product.
+
+A short history of th company
+
+...
+...
+
+
+*Parsing HTML*
+
+Use the BeautifulSoup class to parse an HTML document. Here are some of the things that BeautifulSoup knows:
+
+ - Some tags can be nested (<BLOCKQUOTE>) and some can't (<P>).
+
+ - Table and list tags have a natural nesting order. For instance, <TD> tags go inside <TR> tags, not the other way around.
+
+ - The contents of a <SCRIPT> tag should not be parsed as HTML.
+
+ - A <META> tag may specify an encoding for the document.
+
+
+Connect:
+http://www.c91.com,
+http://www.bd.com,
+sudley.su@foodly.com.
+
+properties:
+
+|name|height(cm)|weight(kg)
+
+|Sudley|155|200
+
+|sherley|188|20
